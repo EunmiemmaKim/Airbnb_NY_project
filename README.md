@@ -7,31 +7,31 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 This public dataset is part of Airbnb, and the original source can be found on this website.
 
 ## Inspiration
-•	What can we learn about different hosts and areas?
-•	What can we learn from predictions? (ex: locations, prices, reviews, etc)
-•	Which hosts are the busiest and why?
-•	Is there any noticeable difference of traffic among different areas and what could be the reason for it?
-The inspiration for my analysis are the questions below
-•	Which are the famous neighborhoods and neighborhood groups among the listings?
-•	What is the price range of the listings?
-•	What are the mst common words used in the description?
-•	Which room types are usually busy ? Is the trend different in different neighborhoods?
-•	How are the reviews distributed?
+•	What can we learn about different hosts and areas? <br>
+•	What can we learn from predictions? (ex: locations, prices, reviews, etc) <br>
+•	Which hosts are the busiest and why? <br>
+•	Is there any noticeable difference of traffic among different areas and what could be the reason for it? <br>
+The inspiration for my analysis are the questions below <br>
+•	Which are the famous neighborhoods and neighborhood groups among the listings? <br>
+•	What is the price range of the listings? <br>
+•	What are the mst common words used in the description? <br>
+•	Which room types are usually busy ? Is the trend different in different neighborhoods? <br>
+•	How are the reviews distributed? <br>
 
 ## Dataset 
-Id 
-Name
-Host- id
-Host_name 
-Neighbourhood - grouplocation
-neighbourhoodarea
-latitude
-longitude
-room_type
-price in dollars
-minimum_nights
-number_of_reviews
-last_review
-reviews_per_months
-calculated_host_listings_count - amount of listing per host
+Id  <br>
+Name <br>
+Host- id <br>
+Host_name  <br>
+Neighbourhood - grouplocation <br>
+neighbourhoodarea <br>
+latitude <br>
+longitude <br>
+room_type <br>
+price in dollars <br>
+minimum_nights <br>
+number_of_reviews <br>
+last_review <br>
+reviews_per_months <br>
+calculated_host_listings_count - amount of listing per host <br>
 availability_365 - number of days when listing is available for booking
