@@ -34,5 +34,4 @@ number_of_reviews
 last_review
 reviews_per_months
 calculated_host_listings_count - amount of listing per host
-availability_365 -  number of days when listing is available for booking
-![image](https://user-images.githubusercontent.com/53354807/126429588-f50563f4-7a07-46bd-85bb-be69067fbf2d.png)
+availability_365 - number of days when listing is available for booking
